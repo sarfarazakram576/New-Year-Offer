@@ -19,7 +19,7 @@
 border-radius: 10px;
 font-family: "Merriweather", serif;
 margin: 1cm 4cm 2cm;
-    background:linear-gradient(180deg, rgb(29, 29, 29) 2.884%,rgba(26, 25, 25, 0) 125.034%),  url("/images/Banner Image.png");
+    background:linear-gradient(180deg, rgb(29, 29, 29) 2.884%,rgba(26, 25, 25, 0) 125.034%),  url("images/Banner Image.png");
     background-repeat: no-repeat no-repeat;
     background-position: center center;
     background-size: 100%;
@@ -68,7 +68,7 @@ display: block;
 
 /* party styles */
 .party{
-    background:linear-gradient(90deg, rgb(29, 29, 29) 2.884%,rgba(26, 25, 25, 0) 125.034%),url("/images/Group 70.png"),  url("/images/Vectorrr.png");
+    background:linear-gradient(90deg, rgb(29, 29, 29) 2.884%,rgba(26, 25, 25, 0) 125.034%),url("images/Group 70.png"),  url("images/Vectorrr.png");
 background-position: center center, center  right 2.6cm;
 background-repeat: no-repeat no-repeat;
 background-size: 100% , 18%;
@@ -202,7 +202,7 @@ width: 90%;
     flex-direction: column;
    align-items: center;
    margin: 2.5cm 4cm 2cm;
-   background: url("/images/Rectangle 2.png");
+   background: url("images/Rectangle 2.png");
    background-repeat: no-repeat no-repeat;
    background-position: bottom center;
 background-size: 100%;
